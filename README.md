@@ -130,7 +130,7 @@ Please see the LICENSE file for details.
 
 ## Contact
 
-**Haneen M. Ibrahim**
+**Hamza. zidom**
 
 Department of Computer Science
 
@@ -138,4 +138,4 @@ Sultan Qaboos University
 
 Muscat, Sultanate of Oman
 
-s139635@student.squ.edu.om
+zidoum@squ.edu.om
